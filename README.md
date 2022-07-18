@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @achmadrifqi09
-- 👀 I’m interested in IOS Developmnet
+- 👀 I’m interested in IOS Developmnet and Web Development
 - 📫 You can contact me by email achmadrifqi09@gmail.com
