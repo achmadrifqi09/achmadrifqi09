@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @achmadrifqi09
-- 👀 I’m interested in IOS Developmnet and Web Development
+- 👋 Hi, I’m Achmad Rifqi
+- 👀 I’m interested in Web Development and IOS Developmnet
 - 📫 You can contact me by email achmadrifqi09@gmail.com
